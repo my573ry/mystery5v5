@@ -1,4 +1,4 @@
-token = 'NzIzMjE2NDg4ODMxMzg1NjEy.XuuaEA.IneCjIQPQUTt3lua4JdZ7vKt1_o'
+token = ''
 guildID = 723122108338667561
 team1ChannelId = 723227701158084650
 team2ChannelId = 723227741511745577
